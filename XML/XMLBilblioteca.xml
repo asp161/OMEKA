@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML realizado por Álvaro Sánchez y Jorge Zaragoza-->
+<catalogo>
+  <obra>
+    <titulo>Historia de una escalera</titulo>
+    <autor fechaNacimiento="1916" fechaFallecimiento="2000">Antonio Buero Vallejo</autor>
+    <pais>Guadalajara</pais>
+    <materia tipo="genero">Teatro español</materia>
+    <fechapublicacion>1949</fechapublicacion>
+    <url>http://www.cervantesvirtual.com/portales/antonio_buero_vallejo/teatro_historia_escalera/</url>
+  </obra>
+    <obra>
+    <titulo>Las palabras en la arena</titulo>
+    <autor fechaNacimiento="1916" fechaFallecimiento="2000">Antonio Buero Vallejo</autor>
+    <pais>Guadalajara</pais>
+    <materia tipo="genero">Teatro español</materia>
+    <fechapublicacion>1949</fechapublicacion>
+    <url>http://www.cervantesvirtual.com/portales/antonio_buero_vallejo/teatro_las_palabras_arena/</url>
+  </obra>
+  <obra>
+    <titulo>La casa de Bernarda Alba</titulo>
+    <autor fechaNacimiento="1898" fechaFallecimiento="1936">Federico García Lorca</autor>
+    <pais>Granada</pais>
+    <materia tipo="genero">Teatro español</materia>
+    <fechapublicacion>1945</fechapublicacion>
+    <url>http://www.cervantesvirtual.com/obra/la-casa-de-bernarda-alba-775125/</url>
+  </obra>  
+  <obra>
+    <titulo>La ilustre fregona</titulo>
+    <autor fechaNacimiento="1547" fechaFallecimiento="1616">Miguel de Cervantes</autor>
+    <pais>Madrid</pais>
+    <materia tipo="genero">Novela española</materia>
+    <fechapublicacion>1613</fechapublicacion>
+    <url>http://www.cervantesvirtual.com/portales/miguel_de_cervantes/obra/la-illustre-fregona--0/</url>
+  </obra>  
+    <obra>
+    <titulo>Bodas de sangre</titulo>
+    <autor fechaNacimiento="1898" fechaFallecimiento="1936">Federico García Lorca</autor>
+    <pais>Granada</pais>
+    <materia tipo="genero">Teatro español</materia>
+    <fechapublicacion>1933</fechapublicacion>
+    <url>http://www.cervantesvirtual.com/obra/bodas-de-sangre-775113/</url>
+  </obra> 
+  <obra>
+    <titulo>Viaje del Parnaso</titulo>
+     <autor fechaNacimiento="1547" fechaFallecimiento="1616">Miguel de Cervantes</autor>
+    <pais>Madrid</pais>
+    <materia tipo="genero">Poesía española</materia>
+    <fechapublicacion>1614</fechapublicacion>
+    <url>http://www.cervantesvirtual.com/portales/miguel_de_cervantes/obra/viage-del-parnaso--1/</url>
+  </obra> 
+  <obra>
+    <titulo>Doctor Carlino</titulo>
+     <autor fechaNacimiento="1561" fechaFallecimiento="1627">Luis de Góngora</autor>
+    <pais>Madrid</pais>
+    <materia tipo="genero">Teatro Español</materia>
+    <fechapublicacion>1613</fechapublicacion>
+    <url>http://www.cervantesvirtual.com/portales/luis_de_gongora/obra/doctor-carlino--0/</url>
+  </obra> 
+  <obra>
+    <titulo>Soledades</titulo>
+     <autor fechaNacimiento="1561" fechaFallecimiento="1627">Luis de Góngora</autor>
+    <pais>Madrid</pais>
+    <materia tipo="genero">Poesía Español</materia>
+    <fechapublicacion>1613</fechapublicacion>
+    <url>http://www.cervantesvirtual.com/portales/luis_de_gongora/obra/soledades--0/</url>
+  </obra> 
+    <obra>
+    <titulo>Residencia en la tierra</titulo>
+     <autor fechaNacimiento="1904" fechaFallecimiento="1973">Pablo Neruda</autor>
+    <pais>Chile</pais>
+    <materia tipo="genero">Poesía chilena</materia>
+    <fechapublicacion>1933</fechapublicacion>
+    <url>http://www.cervantesvirtual.com/obra/residencia-en-la-tierra--0/</url>
+  </obra> 
+    <obra>
+    <titulo>Memorial de Isla Negra</titulo>
+     <autor fechaNacimiento="1904" fechaFallecimiento="1973">Pablo Neruda</autor>
+    <pais>Chile</pais>
+    <materia tipo="genero">Poesía chilena</materia>
+    <fechapublicacion>1964</fechapublicacion>
+    <url>http://www.cervantesvirtual.com/obra/memorial-de-isla-negra/</url>
+  </obra> 
+</catalogo>
