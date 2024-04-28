@@ -1,2 +1,2 @@
-# Biblioteca_Virtual_Omeka
- Practica en Omeka, además de primeros usos de XML y Latex
+# Practica_Omeka
+ biblioteca virtual realizada con el CMS Omeka
